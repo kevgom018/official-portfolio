@@ -76,7 +76,7 @@ export const missions: Mission[] = [
     tags: ["C/C++", "Motion profiling", "PID", "LiDAR", "Computer vision"],
   },
   {
-    org: "FT Innovations",
+    org: "MiUni LLC",
     role: "Mobile app developer",
     period: "Aug 2025 — present",
     location: "Mayagüez, PR",
@@ -151,7 +151,7 @@ export const projects: Project[] = [
     tagline: "Clients and freelancers, connected",
     description:
       "An iOS + Android app matching users with freelancers, with AI features powered by the Gemini API.",
-    role: "Mobile developer, FT Innovations",
+    role: "Mobile developer, MiUni LLC",
     status: "deployed",
     tags: ["Flutter", "Firebase", "Gemini API"],
   },
