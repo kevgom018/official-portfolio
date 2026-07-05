@@ -88,7 +88,7 @@ export const missions: Mission[] = [
     tags: ["Flutter", "Dart", "Firebase", "Gemini API"],
   },
   {
-    org: "Persistent Technology",
+    org: "Persistent Technology Inc.",
     role: "AI / ML intern",
     period: "Jun 2025 — Jul 2025",
     location: "Virginia, USA",
